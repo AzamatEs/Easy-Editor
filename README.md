@@ -1,4 +1,4 @@
-                                                                     Easy-Editor  
+                                                               Easy-Editor  
 Photo editor with multiple photo processing functions 
 ---------------------------------- 
 Functions: 
